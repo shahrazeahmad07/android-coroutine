@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coroutines</string>
+    <string name="background_task">Background Task</string>
+</resources>
